@@ -18,7 +18,7 @@ a = add.add1(1)
 b = add.add2(2,3)
 c = add.add3(4,5,6)
 
-print(a)
+print(a+bin)
 print(b)
 print(c)
 
